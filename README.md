@@ -77,9 +77,6 @@ I'm a Computer Science (AI) student passionate about building practical AI-drive
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
-
----
 
 ## 🚀 Featured Projects
 
