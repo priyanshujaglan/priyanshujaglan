@@ -3,20 +3,6 @@
 </p>
 
 <br>
-# 👋 Hi, I'm Priyanshu Jaglan
-
-### AI/ML • Python • Data Analytics • Software Engineering
-
-
-I'm a Computer Science (AI) student passionate about building practical AI-driven applications and solving real-world problems with software.
-
-🎓 B.Tech CSE (AI) @ Galgotia's College of Engineering and Technology  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-🐍 Python Developer  
-📊 Data Analytics & Data Visualization  
-💻 Software Engineering & Backend Development  
-
----
 
 ## 🧑‍💻 About Me
 
