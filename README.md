@@ -20,13 +20,21 @@ I'm a Computer Science (AI) student passionate about building practical AI-drive
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science (AI), 2023–2027
-- 💡 Strong foundation in Data Structures & Algorithms, OOP, DBMS and OS
-- 🤖 Building Machine Learning and AI-powered applications
-- 🐍 Experienced with Python and its data/ML ecosystem
-- 🌐 Interested in REST APIs and application development
-- 🧠 Solved 100+ DSA problems
-- 🏆 4th position at National Level Hackathon NexHack 2025
+<img src="./Spider-Man-Hello.gif" width="180px" align="right">
+
+I'm a Computer Science (AI) student passionate about building practical AI-driven applications and solving real-world problems with software.
+
+<br>
+
+🎓 Pursuing B.Tech in Computer Science (AI), 2023–2027  
+💡 Strong foundation in Data Structures & Algorithms, OOP, DBMS and OS  
+🤖 Building Machine Learning and AI-powered applications  
+🐍 Experienced with Python and its data/ML ecosystem  
+🌐 Interested in REST APIs and application development  
+🧠 Solved 100+ DSA problems  
+🏆 4th position at National Level Hackathon NexHack 2025
+
+<br clear="right">
 
 ---
 
