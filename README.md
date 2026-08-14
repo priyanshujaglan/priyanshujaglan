@@ -65,55 +65,124 @@ I'm a Computer Science (AI) student passionate about building practical AI-drive
 
 ## 🚀 Featured Projects
 
-### 💳 Credit Card Fraud Detection System
-
-Machine Learning system for detecting fraudulent transactions.
-
-- Dataset of 280,000+ transactions
-- Logistic Regression & Random Forest
-- SMOTE-based class imbalance handling
-- Achieved **94% recall** for fraudulent transactions
-
 ---
 
-### 🎬 Movie Recommendation System
+## 🚀 Featured Projects
 
-Content-based movie recommendation system built with Python.
+<table>
+<tr>
+<td width="50%">
 
-- Dataset of 5,000+ movies
-- CountVectorizer & Cosine Similarity
-- Real-time top-5 recommendations
-- Interactive Streamlit interface
-- Tested with 50+ users and 300+ recommendation requests
+<h3>💳 Credit Card Fraud Detection</h3>
+
+<p>
+A machine learning system designed to detect fraudulent credit card transactions.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p>
+📊 <b>280K+ transactions</b><br>
+🎯 <b>94% recall</b><br>
+🤖 Logistic Regression + Random Forest<br>
+⚖️ SMOTE-based class imbalance handling
+</p>
+
+<p>
+<a href="https://github.com/priyanshujaglan/credit_card_fraud_transaction_detector">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://credit-card-fraud-transaction-detection-system.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🎬 Movie Recommendation System</h3>
+
+<p>
+A content-based movie recommendation system that generates personalized recommendations.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+<p>
+🎬 <b>5,000+ movies</b><br>
+🔎 CountVectorizer + Cosine Similarity<br>
+⭐ Top-5 real-time recommendations<br>
+👥 <b>50+ users</b> during testing
+</p>
+
+<p>
+<a href="https://github.com/priyanshujaglan/Movie-Recommendation-Model">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://movie-recommendation-model-pj.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🤖 AI Resume Analyzer
 
-AI-powered resume analysis platform currently in development.
+<p>
+An AI-powered resume analysis platform currently under development.
+</p>
 
-- PDF resume information extraction
-- NLP-based semantic matching
-- Job description matching
-- Skill-gap identification
-- ATS-style feedback
-- ReactJS frontend + FastAPI backend
-- Candidate scoring and visualization
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+- 📄 PDF resume information extraction
+- 🧠 NLP-based semantic matching
+- 🎯 Job description matching and candidate scoring
+- 📊 Skill-gap identification
+- 🤖 ATS-style feedback
+- ⚡ ReactJS frontend + FastAPI backend
 
 ---
 
 ### 🎙️ Virtual Assistant
 
-Voice-controlled Python assistant integrating REST APIs.
+<p>
+A voice-controlled Python assistant integrating REST APIs for real-time content fetching and automation.
+</p>
 
-- Speech recognition
-- Text-to-speech
-- Real-time news and content fetching
-- YouTube search using yt-dlp
-- Web automation
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/SpeechRecognition-222222?style=flat-square"/>
+</p>
+
+- 🎤 Speech recognition and text-to-speech
+- 📰 Real-time news and content fetching
+- ▶️ YouTube search using yt-dlp
+- 🌐 Multi-platform web automation
 
 ---
-
 ## 🏆 Achievements
 
 🏅 **4th Position — National Level Hackathon NexHack 2025**  
