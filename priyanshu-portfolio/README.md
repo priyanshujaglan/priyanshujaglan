@@ -1,6 +1,13 @@
-# Priyanshu Jaglan — Personal Portfolio
+# Priyanshu Jaglan — Spider-inspired Portfolio
 
-A modern, responsive personal portfolio website built with Next.js, TypeScript, Tailwind CSS and Framer Motion.
+A recruiter-friendly personal portfolio with a cinematic dark interface, original spider/web motifs, subtle CSS motion, and red/blue comic-panel accents.
+
+## Stack
+
+- Next.js 14, React 18 and TypeScript
+- Tailwind CSS
+- Lucide React
+- CSS keyframe animations with reduced-motion support
 
 ## Getting started
 
@@ -9,16 +16,26 @@ npm install
 npm run dev
 ```
 
-Visit http://localhost:3000.
+Open http://localhost:3000.
+
+## Content source of truth
+
+The latest supplied resume is used when personal details conflict:
+- B.Tech CGPA: **8.0 / 10**
+- Credit Card Fraud Detection recall: **94%**
+- CodeForge Society: **Secretary, 2025–26**
+- NexHack 2025: **4th among 108 teams**
+- DSA practice: **100+ problems solved**
+
+Older awards not included in the latest resume are omitted from this version.
+
+## Personal photo and resume
+
+The supplied portrait is part of the downloadable project in `public/images/priyanshu.jpg`. The resume PDF is not published as a public download yet; the page currently lets visitors request it by email.
 
 ## Before deploying
 
-- Add a profile photo at `public/images/priyanshu.jpg`.
-- Add a public-safe resume at `public/resume/priyanshu-jaglan-resume.pdf`.
-- Verify CGPA (7.5 vs 8.0), society role, awards and project metrics.
-- Replace the placeholder Vercel URL in metadata.
-- Confirm the public email and other contact details.
-
-## Deployment
-
-Import this repository folder/project into Vercel and deploy as a Next.js application.
+- Verify that both Streamlit demo links still work.
+- Reconcile the resume's 94% recall with the 88% displayed in the Fraud Detection repository/app. The portfolio follows the resume; do not alter the model's own reported metric until its evaluation run is confirmed.
+- Rotate the TMDB API key previously found hard-coded in the Movie Recommendation source and use an environment variable.
+- Set `NEXT_PUBLIC_SITE_URL` to the deployed Vercel URL.
