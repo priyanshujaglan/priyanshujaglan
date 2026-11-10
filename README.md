@@ -210,7 +210,7 @@ Led my team to secure 4th position among **108 teams**.
 
 **B.Tech — Computer Science (Artificial Intelligence)**  
 Galgotia's College of Engineering and Technology  
-2023–2027 | **CGPA: 7.5/10**
+2023–2027 | **CGPA: 8.0/10**
 
 ---
 
